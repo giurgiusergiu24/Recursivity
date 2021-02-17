@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8adb2b-2017-42a1-b6ee-79739998eef6" name="Default Changelist" comment="1st">
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/OOPstatic/Cerc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/OOPstatic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/OOPstatic/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/compozitie/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/Bloc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/itschool/compozitie/CardSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/compozitie/CardSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/compozitie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/compozitie/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/compozitie/Telefon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/compozitie/Telefon.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +93,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.itschool.compozitie.Main" />
+      <module name="Curs_16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.itschool.compozitie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.itschool.OOPstatic.Main" />
+      <module name="Curs_16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.itschool.OOPstatic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.itschool.basic.Main" />
       <module name="Curs_16" />
@@ -97,6 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
