@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8adb2b-2017-42a1-b6ee-79739998eef6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/Bloc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Curs_17/Curs_17.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/Bloc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/basic/Bloc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/basic/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +85,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Users/Public/Documents/OOP" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.itschool.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.company.itschool.basic.Main" />
       <module name="Curs_16" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -123,5 +126,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
