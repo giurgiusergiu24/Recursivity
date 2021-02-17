@@ -18,4 +18,11 @@ public class CardSim {
     public String getFrecventa (){
         return this.numeFrecventa;
     }
+    public String getOperator(){
+        return this.operator;
+    }
+
+    public void setOperator (String operator){
+        this.operator = operator;
+    }
 }
