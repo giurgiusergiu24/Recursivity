@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c8adb2b-2017-42a1-b6ee-79739998eef6" name="Default Changelist" comment="1st">
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Dulciuri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Fruct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Haine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Produs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/personalfacultate/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/personalfacultate/Persoana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/personalfacultate/Profesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/personalfacultate/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Curs_19/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Curs_19/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Curs_19/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Curs_19/Curs_19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/abstractex/Dreptunghi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/abstractex/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/abstractex/Patrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/colectie/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/colectie/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/colectie/MainArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/itschool/colectie/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/gestiuneproduse/Haine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/gestiuneproduse/Haine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/gestiuneproduse/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/gestiuneproduse/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/gestiuneproduse/Produs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Curs_16/com/company/itschool/gestiuneproduse/Produs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Dulciuri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Dulciuri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Fruct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Fruct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Haine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Haine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Produs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Produs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,33 +109,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.itschool.compozitie.Main" />
-      <module name="Curs_16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.itschool.compozitie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.itschool.OOPstatic.Main" />
-      <module name="Curs_16" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.itschool.OOPstatic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainArrayList">
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.itschool.gestiunetelefoane.Main" />
       <module name="Curs_16" />
@@ -173,13 +149,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.itschool.colectie.Main" />
+      <module name="Curs_16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.itschool.colectie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.itschool.colectie.MainArrayList" />
+      <module name="Curs_16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.itschool.colectie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainArrayList" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,19 +219,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st" />
     <option name="LAST_COMMIT_MESSAGE" value="1st" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/company/itschool/gestiuneproduse/Main.java</url>
-          <line>6</line>
-          <properties class="com.company.itschool.gestiuneproduse.Main" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
