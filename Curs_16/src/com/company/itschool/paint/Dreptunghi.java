@@ -20,4 +20,11 @@ public class Dreptunghi extends FormaGeometrica{
     public void setLatime(int latime) {
         this.latime = latime;
     }
+
+    @Override
+    public void deseneaza() {
+        System.out.println("Punct de desenare ");
+        System.out.println(super.getStartPointX() + " " + super.getStartPointY());
+        System.out.println("Dreptunghi cu lungimea  " + lungime + " " + " si latimea " + latime);
+    }
 }

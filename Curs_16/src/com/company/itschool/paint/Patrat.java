@@ -11,4 +11,11 @@ public class Patrat extends FormaGeometrica{
     public void setLatura(double latura) {
         this.latura = latura;
     }
+
+    @Override
+    public void deseneaza() {
+        System.out.println("Punct de desenare ");
+        System.out.println(super.getStartPointX() + " " + super.getStartPointY());
+        System.out.println("Patrat cu latura de: " + latura );
+    }
 }
